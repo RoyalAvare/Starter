@@ -2,7 +2,7 @@
     "id": "e6a1707b-6946-4239-8600-86c330cda23b",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "s_fireext",
+    "name": "s_fire_extinguisher",
     "For3D": false,
     "HTile": false,
     "VTile": false,
