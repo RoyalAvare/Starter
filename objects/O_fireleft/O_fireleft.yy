@@ -2,7 +2,7 @@
     "id": "bc60ee33-7755-4a26-9c4d-3f5452f7d849",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "O_fire",
+    "name": "O_fireleft",
     "eventList": [
         
     ],
