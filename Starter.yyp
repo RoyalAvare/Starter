@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "e6a1707b-6946-4239-8600-86c330cda23b",
+            "Value": {
+                "id": "47fb52cd-c4f2-43ae-b2c2-79a0f53708cf",
+                "resourcePath": "sprites\\s_fireext\\s_fireext.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "6dcc1050-bd66-45bf-82be-1ac109743a54",
