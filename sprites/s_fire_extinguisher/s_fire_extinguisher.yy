@@ -9,7 +9,7 @@
     "bbox_bottom": 52,
     "bbox_left": 23,
     "bbox_right": 44,
-    "bbox_top": 3,
+    "bbox_top": 13,
     "bboxmode": 0,
     "colkind": 1,
     "coltolerance": 0,
@@ -66,5 +66,5 @@
     "type": 0,
     "width": 64,
     "xorig": 35,
-    "yorig": 35
+    "yorig": 36
 }

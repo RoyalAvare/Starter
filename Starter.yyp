@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "d45bada3-96f8-4ed7-aedb-1d887b8dc562",
+            "Value": {
+                "id": "5614274c-0e5d-402a-bb07-45148f76f241",
+                "resourcePath": "objects\\O_fire_extinguisher\\O_fire_extinguisher.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ddb5d2fa-2c42-436f-ac54-f29d20247381",
             "Value": {
                 "id": "83201031-8a35-4aef-b144-a04b02c0d007",
