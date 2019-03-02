@@ -130,7 +130,7 @@
             "Key": "8e96668c-52ee-46c8-a589-70cde3c31355",
             "Value": {
                 "id": "c14ec230-82f8-4a58-b99e-53bf2b387de8",
-                "resourcePath": "sprites\\s_enemy\\s_enemy.yy",
+                "resourcePath": "sprites\\s_fire\\s_fire.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -162,7 +162,7 @@
             "Key": "bc60ee33-7755-4a26-9c4d-3f5452f7d849",
             "Value": {
                 "id": "3739ca29-e526-4159-80ca-5890589292d2",
-                "resourcePath": "objects\\O_enemy\\O_enemy.yy",
+                "resourcePath": "objects\\O_fire\\O_fire.yy",
                 "resourceType": "GMObject"
             }
         },
