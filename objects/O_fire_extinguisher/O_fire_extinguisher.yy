@@ -5,21 +5,11 @@
     "name": "O_fire_extinguisher",
     "eventList": [
         {
-            "id": "07e655ad-2595-450c-80d1-7ff1c6981202",
+            "id": "e6afa431-30a4-4d70-9c32-e0a1cdb353d1",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "bc60ee33-7755-4a26-9c4d-3f5452f7d849",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "d45bada3-96f8-4ed7-aedb-1d887b8dc562"
-        },
-        {
-            "id": "ce4dcb98-e83a-4e9c-ada2-b17894defb65",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "e3c649f2-d153-45a6-90de-eaff50e02323",
+            "collisionObjectId": "0f24782e-9c4e-4cc4-9136-2056fbe762e4",
             "enumb": 0,
             "eventtype": 4,
             "m_owner": "d45bada3-96f8-4ed7-aedb-1d887b8dc562"
