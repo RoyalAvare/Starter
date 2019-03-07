@@ -1,28 +1,28 @@
 {
-    "id": "d45bada3-96f8-4ed7-aedb-1d887b8dc562",
+    "id": "88816365-3d3b-4251-93ed-a9f67d6d3774",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "O_fire_extinguisher",
+    "name": "O_game",
     "eventList": [
         {
-            "id": "e6afa431-30a4-4d70-9c32-e0a1cdb353d1",
+            "id": "4740d41b-7a26-4994-a84c-6fedd3b6d2f1",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "0f24782e-9c4e-4cc4-9136-2056fbe762e4",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "d45bada3-96f8-4ed7-aedb-1d887b8dc562"
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 1,
+            "eventtype": 2,
+            "m_owner": "88816365-3d3b-4251-93ed-a9f67d6d3774"
         },
         {
-            "id": "67dd509e-613d-4251-a8da-3c80926179f4",
+            "id": "5f4a1aeb-9b82-4212-beda-f750b9af3163",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "d45bada3-96f8-4ed7-aedb-1d887b8dc562"
+            "m_owner": "88816365-3d3b-4251-93ed-a9f67d6d3774"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "e6a1707b-6946-4239-8600-86c330cda23b",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

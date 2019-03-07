@@ -21,5 +21,5 @@ switch(keyboard_key){
 	default:
 		sprite_index = s_man
 		break
-	
 }
+		
