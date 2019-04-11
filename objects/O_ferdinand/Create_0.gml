@@ -1,4 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
 fireext = 0;
 pause = false;
+max_health_= 10;
+health_ = max_health_;
