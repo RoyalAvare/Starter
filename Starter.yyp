@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "25de47d8-c7cd-49ef-a814-776ccc4eb6a9",
+            "Value": {
+                "id": "90c318cf-ceeb-49fd-aa3a-53dcf933aa5a",
+                "resourcePath": "rooms\\Timer_Room\\Timer_Room.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "2875c806-d6d2-47fc-9357-cfb158070092",
             "Value": {
                 "id": "c46079b4-651f-4ffc-8c3f-380cfccb6aee",
@@ -335,6 +343,14 @@
             }
         },
         {
+            "Key": "dfac2924-9c3f-416b-b1f1-3614edc536b5",
+            "Value": {
+                "id": "0dd8d53d-5261-4f40-87ca-219b0609fd4e",
+                "resourcePath": "objects\\timer\\timer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e2637182-c8f6-4d3b-9f12-8df7c56a118c",
             "Value": {
                 "id": "1072d60d-1c53-4c90-9d76-5b75eba29598",
@@ -360,8 +376,8 @@
         }
     ],
     "script_order": [
-        "bbe8c5e5-024b-4d73-924a-1a10d0fe0896",
-        "cbbe07ba-e204-48a3-a9b2-e1323603254b"
+        "cbbe07ba-e204-48a3-a9b2-e1323603254b",
+        "bbe8c5e5-024b-4d73-924a-1a10d0fe0896"
     ],
     "tutorial": ""
 }
