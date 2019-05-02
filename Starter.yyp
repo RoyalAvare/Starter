@@ -31,6 +31,22 @@
     },
     "resources": [
         {
+            "Key": "03bc6944-9b55-4c85-bb6b-ae735ab73738",
+            "Value": {
+                "id": "c0ec96e8-f2f1-4ce5-ab3e-acbd56999bbb",
+                "resourcePath": "sounds\\Fire_Sound_2\\Fire_Sound_2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "06e2a189-0c3b-4766-bf72-afdb63482f47",
+            "Value": {
+                "id": "c75541dd-de6e-4abe-87c3-dcf0713f5b9f",
+                "resourcePath": "sounds\\Fire_Extinguisher_Sound\\Fire_Extinguisher_Sound.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "097a2077-e524-4a04-aa6e-7ceb197d789a",
             "Value": {
                 "id": "45638063-bb5c-49d2-8850-2dd9dcd64374",
@@ -199,6 +215,14 @@
             }
         },
         {
+            "Key": "9e3311b2-3f64-4091-81f6-0b3469f1fa42",
+            "Value": {
+                "id": "73ef3895-b23d-4f13-bd06-21b900f35204",
+                "resourcePath": "sounds\\Fire_Sound_1\\Fire_Sound_1.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "a2501800-25b3-401d-8c22-c4870cec4e24",
             "Value": {
                 "id": "4781cd41-4203-4d92-8cb2-2a8d317c36bf",
@@ -239,14 +263,6 @@
             }
         },
         {
-            "Key": "ad6ae14e-a809-47d5-8e5d-6c47c1340e4b",
-            "Value": {
-                "id": "04dcfefd-092b-4081-a941-0e349bf7bb0e",
-                "resourcePath": "sprites\\s_fireright\\s_fireright.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "ae759a13-5607-4045-a704-69ad68955260",
             "Value": {
                 "id": "89251533-3742-41a7-885e-07bb8a183ff5",
@@ -276,6 +292,14 @@
                 "id": "3739ca29-e526-4159-80ca-5890589292d2",
                 "resourcePath": "objects\\O_fireleft\\O_fireleft.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bd31a291-87a1-40e4-a87c-e7fee48977a8",
+            "Value": {
+                "id": "06c85694-9d04-4ea8-b11f-600c83a85cb7",
+                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -364,6 +388,14 @@
                 "id": "47fb52cd-c4f2-43ae-b2c2-79a0f53708cf",
                 "resourcePath": "sprites\\s_fire_extinguisher\\s_fire_extinguisher.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ef311ae6-ec79-469f-a9fd-e392718c995e",
+            "Value": {
+                "id": "7bfa2621-7cfe-4e7c-98db-5b91a60d6a3f",
+                "resourcePath": "rooms\\room2\\room2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

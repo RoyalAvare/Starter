@@ -6,6 +6,8 @@
     "children": [
         "437e58f0-1b1d-4f37-86cf-57d7adc799d7",
         "17c6f977-a717-4db4-bd50-16c500d4136d",
+        "ef311ae6-ec79-469f-a9fd-e392718c995e",
+        "bd31a291-87a1-40e4-a87c-e7fee48977a8",
         "25de47d8-c7cd-49ef-a814-776ccc4eb6a9"
     ],
     "filterType": "GMRoom",
