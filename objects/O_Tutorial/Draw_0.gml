@@ -1,0 +1,7 @@
+draw_set_color(c_black)
+draw_set_font(fnt_GUI)
+draw_text(420, 120, "TUTORIAL")
+draw_set_font(fnt_GUI_sm)
+draw_text(50, 180, "~ WASD to move")
+draw_text(50, 280, "~ Collect fire extinguishers to help Ferdinand escape the fire")
+draw_text(50, 380, "~ Watch out for layered fire")

@@ -1,8 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
-menu[0] = "Start";
-menu[1] = "Tutorial";
-menu[2] = "Quit"
+menu[0] = "Continue";
+menu[1] = "Quit";
+
 
 
 space = 64;

@@ -82,7 +82,7 @@
             "Key": "25de47d8-c7cd-49ef-a814-776ccc4eb6a9",
             "Value": {
                 "id": "90c318cf-ceeb-49fd-aa3a-53dcf933aa5a",
-                "resourcePath": "rooms\\Timer_Room\\Timer_Room.yy",
+                "resourcePath": "rooms\\Tutorial\\Tutorial.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "3673959c-1282-4de0-8894-ff0f1b80c078",
+            "Value": {
+                "id": "7cef1baa-0d9c-47ed-b892-7f93ef4aaccc",
+                "resourcePath": "objects\\life_timer\\life_timer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "437e58f0-1b1d-4f37-86cf-57d7adc799d7",
             "Value": {
                 "id": "22001d25-b525-493b-b4ef-54c6d7b5db34",
@@ -132,6 +140,14 @@
                 "id": "69e9840f-fa9a-4704-9202-ab8c08ffe654",
                 "resourcePath": "sprites\\man_right\\man_right.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "51e8749d-afd3-4f9c-90ec-1226f099bcff",
+            "Value": {
+                "id": "4d13f215-d7af-427a-b0a1-e5bf3554056d",
+                "resourcePath": "scripts\\scr_gameover\\scr_gameover.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -151,11 +167,27 @@
             }
         },
         {
+            "Key": "64b7ada5-4d26-4ddb-8c29-34b7c53aefe1",
+            "Value": {
+                "id": "5cac2d14-b279-40fe-83f5-27bd0a9a3d23",
+                "resourcePath": "sprites\\sprite11\\sprite11.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "696a0616-be1e-479b-b1ee-c4469ff94edf",
             "Value": {
                 "id": "051f16d5-4a9b-4d58-929a-aacabf9e52f4",
                 "resourcePath": "views\\696a0616-be1e-479b-b1ee-c4469ff94edf.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6f539859-cc68-48f1-a16c-57cb240832ce",
+            "Value": {
+                "id": "7e88694e-1929-4ab0-a79a-fccaa0ea2624",
+                "resourcePath": "rooms\\GameOver_Room\\GameOver_Room.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -180,6 +212,14 @@
                 "id": "6e29c875-4997-4f2d-b4a5-313fb2683231",
                 "resourcePath": "views\\891e7e94-db17-49c5-ad75-7006db27cb90.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8ba2197f-b52b-492c-bdf5-dc74bb647689",
+            "Value": {
+                "id": "58738282-f63e-4ad9-8156-030dcb5c4312",
+                "resourcePath": "objects\\Game_Over_Menu\\Game_Over_Menu.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -255,11 +295,27 @@
             }
         },
         {
+            "Key": "b4fbbd36-7307-4f7f-b2f9-6167f618caf8",
+            "Value": {
+                "id": "c2e44d72-a64f-4753-a939-e213572eca69",
+                "resourcePath": "objects\\O_Tutorial\\O_Tutorial.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b6c8c0a3-9e5c-4578-bc14-527b2221b907",
             "Value": {
                 "id": "9050f878-a74e-43e5-a017-79ac62bc33bc",
                 "resourcePath": "sprites\\MenuArrow\\MenuArrow.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b751d6b1-592b-4074-a64b-14d44178ff1a",
+            "Value": {
+                "id": "ff648e65-a72b-4392-ba3a-f770f35a57a0",
+                "resourcePath": "objects\\Game_Over\\Game_Over.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -327,6 +383,14 @@
             }
         },
         {
+            "Key": "cd1bf7ef-07f8-45b5-8314-799c69bba189",
+            "Value": {
+                "id": "462b49ab-5e41-4bce-af38-abf278542911",
+                "resourcePath": "fonts\\fnt_GUI_sm\\fnt_GUI_sm.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "d45bada3-96f8-4ed7-aedb-1d887b8dc562",
             "Value": {
                 "id": "5614274c-0e5d-402a-bb07-45148f76f241",
@@ -373,11 +437,20 @@
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
             }
+        },
+        {
+            "Key": "f8bc3425-acea-415b-b38a-451b3e8092ce",
+            "Value": {
+                "id": "53c690a3-e9db-4b14-9798-94d0b78b246e",
+                "resourcePath": "sprites\\sprite10\\sprite10.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [
         "cbbe07ba-e204-48a3-a9b2-e1323603254b",
-        "bbe8c5e5-024b-4d73-924a-1a10d0fe0896"
+        "bbe8c5e5-024b-4d73-924a-1a10d0fe0896",
+        "51e8749d-afd3-4f9c-90ec-1226f099bcff"
     ],
     "tutorial": ""
 }

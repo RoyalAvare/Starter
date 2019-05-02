@@ -6,7 +6,7 @@ switch (mpos)
 		break;
 	}
 	
-	case 1: room_goto(Timer_Room);
+	case 1: room_goto(Tutorial);
 	{
 		break;
     
