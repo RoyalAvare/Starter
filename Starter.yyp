@@ -66,7 +66,7 @@
             "Key": "17c6f977-a717-4db4-bd50-16c500d4136d",
             "Value": {
                 "id": "9ee7092d-9aa0-42bd-b3ea-5c166635a425",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\Level_1\\Level_1.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "710c579c-c724-413a-9360-41997a4af47f",
+            "Value": {
+                "id": "090187df-d658-43be-8fc2-c5e84a7c4279",
+                "resourcePath": "rooms\\Level_1_H\\Level_1_H.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "88816365-3d3b-4251-93ed-a9f67d6d3774",
             "Value": {
                 "id": "51d5a64c-aab1-4820-b4dd-2543a04561fc",
@@ -223,11 +231,27 @@
             }
         },
         {
+            "Key": "8d0f6d9d-7abe-4a2e-8434-41ed14019fea",
+            "Value": {
+                "id": "8dda753e-cab5-4ff7-a1b6-e6f928f04ef6",
+                "resourcePath": "rooms\\Win_Room\\Win_Room.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "8e96668c-52ee-46c8-a589-70cde3c31355",
             "Value": {
                 "id": "c14ec230-82f8-4a58-b99e-53bf2b387de8",
                 "resourcePath": "sprites\\s_fireleft\\s_fireleft.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "911d67ff-7f52-42c2-ada1-647ea4e446d8",
+            "Value": {
+                "id": "f2e5e6c4-f0c7-4baa-a885-59e07c48fa0b",
+                "resourcePath": "objects\\Win\\Win.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -359,11 +383,11 @@
             }
         },
         {
-            "Key": "c8c2037d-87aa-4890-a1c0-6256f8b348c9",
+            "Key": "c723ff14-f82c-4d41-962b-49b51e880d82",
             "Value": {
-                "id": "6b73383e-3ce6-479d-98da-c4fd2048ba07",
-                "resourcePath": "sounds\\sound0\\sound0.yy",
-                "resourceType": "GMSound"
+                "id": "b7732c99-a1dd-44e4-8945-48816dccfce4",
+                "resourcePath": "sprites\\win_wall\\win_wall.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

@@ -8,6 +8,6 @@ for (m = 0; m < array_length_1d(menu); m += 1)
 {
 	draw_text(x + space, y + (m * space * 2), string(menu[m]));
 }
-draw_sprite(sprite_index, 0, x - 20, y + 95 + mpos * space * 2);
+draw_sprite(sprite_index, 0, x - 20, y - 5 + mpos * space * 2);
 draw_set_color(c_red);
 draw_text(350, 120, "ESCAPE THE FIRE");
